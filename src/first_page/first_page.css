@@ -1,0 +1,41 @@
+
+.center{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+  }
+
+  .buttonSection{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .button{
+    background-color: #1160F7;
+    color: #fff;
+    border: #1160F7;
+    height: 50px;
+    width: 200px;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+
+  .textDec{
+    color: #1160F7;
+  }
+
+  .textSection{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+  }
